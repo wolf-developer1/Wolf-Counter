@@ -1,2 +1,2 @@
-# Wolf-Counter
+# Accountant-Lobo
 App simples, feito com Excel para registros de receitas
